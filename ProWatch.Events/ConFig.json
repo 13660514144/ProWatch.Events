@@ -1,0 +1,8 @@
+{    
+    "PassLog": "http://192.168.0.205:81/openapi/access/log/push",
+    "url": "http://192.168.0.190:8735/pwevents",
+    "username": "tu",
+    "password": "HON123well!",
+    "workstation": "dtuservice",
+    "sleep":600000
+}
